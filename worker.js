@@ -2207,5 +2207,5 @@ function switchMode() {
 
   chooseMode(currentMode);
 
-  api(
+  }
  
